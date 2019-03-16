@@ -1,14 +1,17 @@
-# Intoduction
-A list of interesting lisp implementations and runtimes
+# Introduction
 
-## Clojure/script
+A curated list of interesting Lisp implementations/environments for different use cases
 
+# Implementations
 
+* [Lumo](https://github.com/anmonteiro/lumo) A standalone Clojurescript environment that runs on Node.js and V8
 
-## Embedable
+* [Planck](https://github.com/planck-repl/planck) A standalone Clojurescript REPL based on JavaScriptCore
 
-* (janet)[https://janet-lang.org/] an embedded system scripting language (200-300 kB in size)
+* [Janet](https://janet-lang.org/) an embedded system scripting language (200-300 kB in size)
 
+* [Fennel](https://fennel-lang.org/) Lua compatible Lisp with support for Macros and low overhead
 
+* [Ferret](https://ferret-lang.org/) intended to be used in real time embedded systems, compiles down to self contained C++11
 
 
